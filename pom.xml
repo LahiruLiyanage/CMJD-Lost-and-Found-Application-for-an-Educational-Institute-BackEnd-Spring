@@ -10,7 +10,7 @@
     </parent>
     <groupId>lk.ijse.cmjd</groupId>
     <artifactId>lost-and-found-app-backend</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>lost-and-found-app-backend</name>
     <description>lost-and-found-app-backend</description>
     <url/>
